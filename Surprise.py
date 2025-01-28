@@ -29,7 +29,7 @@ physics_facts = [
 
 fun_facts = [
     "Octopuses have three hearts.",
-    "Bananas are berries, but strawberries arenβ€™t.",
+    "Bananas are berries, but strawberries are not.",
     "Honey never spoils. Archaeologists have found 3000-year-old honey in tombs.",
     "The Eiffel Tower can be 15 cm taller during the summer.",
     "Wombat poop is cube-shaped.",
